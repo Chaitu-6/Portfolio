@@ -71,10 +71,18 @@ ul {
     margin-left: 10px;
     border-radius: 7px;
 }
+
+.topbar-social button a{
+    color: #000;
+    text-decoration: none;
+}
     
 .topbar-social button:hover {
     background-color: #e8e8e9;
-    color: blue;
+}
+
+.topbar-social button a:hover{
+    color: #000;
 }
 
 /* Topbar section css ends */
